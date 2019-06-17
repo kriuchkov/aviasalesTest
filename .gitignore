@@ -1,0 +1,8 @@
+goavi/.cache
+goavi/bin
+
+
+
+__pycache__/
+*.py[cod]
+*$py.class
